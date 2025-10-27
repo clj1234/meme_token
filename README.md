@@ -62,7 +62,7 @@ npx hardhat deploy --tags Liquidity --network sepolia
 ### 测试指令
 
 ```
-npm hardhat test ./test/MyMemeToken.js
+npx hardhat test ./test/MyMemeToken.js
 
 npx hardhat test ./test/Liquidity.js   	
 ```
